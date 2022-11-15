@@ -1,0 +1,216 @@
+Transaction,Customer ID,Phone Number,Name,Age,Purchase Date,Gender,Item category,Item Name,Units Buy,Total Price
+1,Cu001,712741286,W.Jayasiri,63,12/18/2019,Male,Toothpaste,Signal,1, LKR  275.00 
+2,Cu002,715189278,H.A.Sakila,38,12/20/2019,Female,Yogurt,Ambewela,5, LKR  350.00 
+3,Cu003,702281572,H.M. Dilan,39,12/21/2019,Male,Fruit,Apple,3, LKR  250.00 
+4,Cu004,712397401,M.P.Sandya,62,12/21/2019,Female,Biscuits,Bourbon,4," LKR  1,200.00 "
+5,Cu005,774047401,W.H.A.Malani,65,12/22/2019,Female,Beverages,Ginger beer,4," LKR  1,400.00 "
+6,Cu006,769303011,N.P Sunil,70,12/22/2019,Male,Noodles,Kottu Mee,3, LKR  570.00 
+7,Cu007,764079289,W.Lakmal,33,1/13/2020,Male,Chicken,Bairaha,4," LKR  4,275.00 "
+8,Cu008,783005526,M.P saman,45,1/15/2020,Male,Chocolate,Revello,6," LKR  2,340.00 "
+9,Cu009,764586987,N.A Nimal,50,1/15/2020,Male,Ice Cream,Elephant House,1, LKR  800.00 
+10,Cu010,702281572,W.Eishan,25,1/15/2020,Male,Beer,Lion Beer,1, LKR  490.00 
+11,Cu011,769693490,N. Sujith,25,1/22/2020,Male,Biscuits,Bourbon,2, LKR  520.00 
+12,Cu012,716374959,K.P Kamala,65,1/22/2020,Female,Yogurt,Ambewela,4, LKR  445.00 
+13,Cu013,785459669,W.Himesha,30,1/22/2020,Female,Fruit,Apple,3, LKR  250.00 
+14,Cu014,705698562,Y.Sajith,28,1/22/2020,Male,Cake,Tiyara,3," LKR  1,150.00 "
+15,Cu015,487565458,R.Lakshani,24,1/27/2020,Female,Chocolate,Daily Milk,4," LKR  1,306.00 "
+16,Cu003,702281572,H.M. Dilan,39,2/5/2020,Male,Fruit,Orange,2, LKR  350.00 
+17,Cu004,712397401,M.P.Sandya,62,2/5/2020,Female,Biscuits,Bourbon,3," LKR  1,444.00 "
+18,Cu005,774047401,W.H.A.Malani,65,2/9/2020,Female,Beverages,Carbonated Beverages,3, LKR  140.00 
+19,Cu006,769303011,N.P Sunil,70,2/9/2020,Male,Noodles,Maggi Daiya Devilled,2, LKR  470.00 
+20,Cu013,785459669,W.Himesha,30,2/17/2020,Female,Fruit,Apple,3, LKR  300.00 
+21,Cu014,705698562,Y.Sajith,28,2/17/2020,Male,Cake,Kandy,3," LKR  1,950.00 "
+22,Cu015,487565458,R.Lakshani,24,2/19/2020,Female,Tiyara,Revello,4," LKR  1,130.00 "
+23,Cu001,712741286,W.Jayasiri,63,2/19/2020,Male,Toothpaste,Clogate,1, LKR  278.00 
+24,Cu002,715189278,H.A.Sakila,38,2/20/2020,Female,Produce,Vegetables,4, LKR  490.00 
+25,Cu010,702281572,W.Eishan,25,2/25/2020,Male,Beer,Apple Beer,1, LKR  490.00 
+26,Cu011,769693490,N. Sujith,25,3/1/2020,Male,Biscuits,Manchee,2, LKR  582.00 
+27,Cu007,764079289,W.Lakmal,33,3/5/2020,Male,Chicken,Bairaha,4," LKR  4,378.00 "
+28,Cu008,783005526,M.P saman,45,3/7/2020,Male,Chocolate,KitKat,7," LKR  2,740.00 "
+29,Cu009,764586987,N.A Nimal,50,3/7/2020,Male,Ice Cream,Magic,1, LKR  240.00 
+30,Cu012,716374959,K.P Kamala,65,3/8/2020,Female,Yogurt,Malindu,6, LKR  750.00 
+31,Cu014,705698562,Y.Sajith,28,3/17/2020,Male,Ice Cream,Malindu,4," LKR  1,950.00 "
+32,Cu015,487565458,R.Lakshani,24,3/18/2020,Female,Chocolate,Revello,6," LKR  2,300.00 "
+33,Cu001,712741286,W.Jayasiri,63,3/18/2020,Male,Toothpaste,Signal,1, LKR  330.00 
+34,Cu002,715189278,H.A.Sakila,38,3/20/2020,Female,Yogurt,Kotmale,6, LKR  480.00 
+35,Cu010,702281572,W.Eishan,25,3/25/2020,Male,Arrack,Red Label,2," LKR  4,860.00 "
+36,Cu011,769693490,N. Sujith,25,3/26/2020,Male,Biscuits,Bourbon,3," LKR  1,182.00 "
+37,Cu007,764079289,W.Lakmal,33,3/27/2020,Male,Chicken,Bairaha,4," LKR  1,378.00 "
+38,Cu004,712397401,M.P.Sandya,62,3/27/2020,Female,Snacks,Candy,4, LKR  444.00 
+39,Cu005,774047401,W.H.A.Malani,65,3/31/2020,Female,Beverages,Ginger beer,4," LKR  1,140.00 "
+40,Cu003,702281572,H.M. Dilan,39,4/1/2020,Male,Fruit,Apple,3, LKR  552.00 
+41,Cu012,716374959,K.P Kamala,65,4/5/2020,Female,Fruit,Orange,6, LKR  445.00 
+42,Cu008,783005526,M.P saman,45,4/6/2020,Male,Chocolate,Revello,7," LKR  5,340.00 "
+43,Cu006,769303011,N.P Sunil,70,4/6/2020,Male,Deli,Side Dishes,3, LKR  470.00 
+44,Cu013,785459669,W.Himesha,30,4/7/2020,Female,Snacks,Candy,4," LKR  1,080.00 "
+45,Cu009,764586987,N.A Nimal,50,4/9/2020,Male,Chocolate,Dairy Milk,1, LKR  240.00 
+46,Cu011,769693490,N. Sujith,25,4/16/2020,Male,Ice Cream,Elephant House,3," LKR  3,180.00 "
+47,Cu012,716374959,K.P Kamala,65,4/16/2020,Female,Yogurt,Ambewela,6, LKR  445.00 
+48,Cu013,785459669,W.Himesha,30,4/16/2020,Female,Fruit,Mango,4, LKR  250.00 
+49,Cu014,705698562,Y.Sajith,28,4/16/2020,Male,Cake,Tiyara,4," LKR  2,950.00 "
+50,Cu015,487565458,R.Lakshani,24,4/20/2020,Female,Beverages,Ginger beer,5," LKR  1,306.00 "
+51,Cu003,702281572,H.M. Dilan,39,4/21/2020,Male,Fruit,Apple,3, LKR  552.00 
+52,Cu004,712397401,M.P.Sandya,62,4/28/2020,Female,Biscuits,Bourbon,4," LKR  1,444.00 "
+53,Cu005,774047401,W.H.A.Malani,65,5/12/2020,Female,Beverages,Woodapple Juice,4," LKR  1,140.00 "
+54,Cu009,764586987,N.A Nimal,50,5/15/2020,Male,Ice Cream,Elephant House,1, LKR  750.00 
+55,Cu010,702281572,W.Eishan,25,5/22/2020,Male,Beer,Lion Beer,10," LKR  4,960.00 "
+56,Cu001,712741286,W.Jayasiri,63,5/27/2020,Male,Beverages,Coke,5," LKR  2,780.00 "
+57,Cu002,715189278,H.A.Sakila,38,5/27/2020,Female,Yogurt,Kotmale,5, LKR  690.00 
+58,Cu006,769303011,N.P Sunil,70,5/27/2020,Male,Noodles,Kottu Mee,3, LKR  970.00 
+59,Cu007,764079289,W.Lakmal,33,5/27/2020,Male,Chicken,Bairaha,4," LKR  4,378.00 "
+60,Cu008,783005526,M.P saman,45,5/29/2020,Male,Chocolate,Revello,8," LKR  5,340.00 "
+61,Cu007,764079289,W.Lakmal,33,5/29/2020,Male,Beverages,Orange Crush,4," LKR  1,370.00 "
+62,Cu008,783005526,M.P saman,45,5/30/2020,Male,Chocolate,Revello,8," LKR  5,380.00 "
+63,Cu009,764586987,N.A Nimal,50,6/5/2020,Male,Ice Cream,Elephant House,1, LKR  850.00 
+64,Cu012,716374959,K.P Kamala,65,6/6/2020,Female,Baking Goods,Baking Goods,5," LKR  1,445.00 "
+65,Cu014,705698562,Y.Sajith,28,6/16/2020,Male,Cake,Tiyara,4," LKR  3,950.00 "
+66,Cu010,702281572,W.Eishan,25,6/16/2020,Male,Beer,Lion Beer,9," LKR  4,960.00 "
+67,Cu011,769693490,N. Sujith,25,6/20/2020,Male,Chocolate,KitKat,3," LKR  1,180.00 "
+68,Cu002,715189278,H.A.Sakila,38,6/20/2020,Female,Yogurt,Kotmale,5, LKR  690.00 
+69,Cu003,702281572,H.M. Dilan,39,6/21/2020,Male,Snack Femaleoods,Snack Femaleoods,3, LKR  552.00 
+70,Cu005,774047401,W.H.A.Malani,65,6/22/2020,Female,Beverages,Ginger beer,4, LKR  740.00 
+71,Cu006,769303011,N.P Sunil,70,6/22/2020,Male,Noodles,Kottu Mee,3, LKR  870.00 
+72,Cu001,712741286,W.Jayasiri,63,6/25/2020,Male,Toothpaste,Signal,1, LKR  530.00 
+73,Cu004,712397401,M.P.Sandya,62,6/25/2020,Female,Biscuits,Bourbon,4," LKR  1,444.00 "
+74,Cu013,785459669,W.Himesha,30,6/26/2020,Female,Fruit,Apple,4, LKR  410.00 
+75,Cu015,487565458,R.Lakshani,24,6/27/2020,Female,Chocolate,Revello,5," LKR  1,300.00 "
+76,Cu002,715189278,H.A.Sakila,38,7/2/2020,Female,Snacks,Candy,5," LKR  1,490.00 "
+77,Cu010,702281572,W.Eishan,25,7/5/2020,Male,Beer,Lion Beer,2, LKR  860.00 
+78,Cu012,716374959,K.P Kamala,65,7/6/2020,Female,Yogurt,Ambewela,5, LKR  550.00 
+79,Cu014,705698562,Y.Sajith,28,7/6/2020,Male,Snacks,Candy,5," LKR  1,950.00 "
+80,Cu015,487565458,R.Lakshani,24,7/7/2020,Female,Yogurt,Ambewela,7, LKR  750.00 
+81,Cu001,712741286,W.Jayasiri,63,7/8/2020,Male,Toothpaste,Signal,1, LKR  480.00 
+82,Cu004,712397401,M.P.Sandya,62,7/11/2020,Female,Snacks,Candy,5," LKR  1,440.00 "
+83,Cu005,774047401,W.H.A.Malani,65,7/12/2020,Female,Beverages,Ginger beer,5," LKR  1,140.00 "
+84,Cu009,764586987,N.A Nimal,50,7/25/2020,Male,Ice Cream,Elephant House,1, LKR  840.00 
+85,Cu007,764079289,W.Lakmal,33,7/25/2020,Male,Chicken,CIC,5," LKR  5,370.00 "
+86,Cu008,783005526,M.P saman,45,7/25/2020,Male,Canned Femaleoods,Canned Soup,6," LKR  2,340.00 "
+87,Cu003,702281572,H.M. Dilan,39,7/27/2020,Male,Fruit,Apple,4, LKR  720.00 
+88,Cu006,769303011,N.P Sunil,70,7/27/2020,Male,Beverages,Apple Juice,4, LKR  370.00 
+89,Cu011,769693490,N. Sujith,25,8/6/2020,Male,Biscuits,Bourbon,4," LKR  1,180.00 "
+90,Cu013,785459669,W.Himesha,30,8/9/2020,Female,Fruit,Apple,5, LKR  900.00 
+91,Cu010,702281572,W.Eishan,25,8/15/2020,Male,Beer,Special Brew,2, LKR  960.00 
+92,Cu001,712741286,W.Jayasiri,63,8/18/2020,Male,Toothpaste,Sensodyne,1, LKR  230.00 
+93,Cu002,715189278,H.A.Sakila,38,8/20/2020,Female,Yogurt,Anchor Newdale,7, LKR  480.00 
+94,Cu006,769303011,N.P Sunil,70,8/22/2020,Male,Noodles,Kottu Mee,4, LKR  670.00 
+95,Cu007,764079289,W.Lakmal,33,8/23/2020,Male,Toothpaste,Signal,1, LKR  370.00 
+96,Cu008,783005526,M.P saman,45,8/25/2020,Male,Noodles,Maggi,6," LKR  1,340.00 "
+97,Cu009,764586987,N.A Nimal,50,9/5/2020,Male,Yogurt,Malindu,5, LKR  240.00 
+98,Cu011,769693490,N. Sujith,25,9/7/2020,Male,Biscuits,Bourbon,4," LKR  1,182.00 "
+99,Cu012,716374959,K.P Kamala,65,9/8/2020,Female,Yogurt,Ambewela,7, LKR  445.00 
+100,Cu013,785459669,W.Himesha,30,9/9/2020,Female,Chocolate,Revello,5," LKR  1,918.00 "
+101,Cu003,702281572,H.M. Dilan,39,9/11/2020,Male,Fruit,Mango,4, LKR  450.00 
+102,Cu005,774047401,W.H.A.Malani,65,9/22/2020,Female,Beverages,Ayurveda Herbal Drink,5, LKR  640.00 
+103,Cu015,487565458,R.Lakshani,24,9/27/2020,Female,Chocolate,Revello,7," LKR  6,300.00 "
+104,Cu004,712397401,M.P.Sandya,62,9/27/2020,Female,Biscuits,Bourbon,5, LKR  440.00 
+105,Cu014,705698562,Y.Sajith,28,10/3/2020,Male,Cake,Tiyara,4," LKR  2,950.00 "
+106,Cu005,774047401,W.H.A.Malani,65,10/7/2020,Female,Beverages,Ginger beer,4," LKR  1,400.00 "
+107,Cu003,702281572,H.M. Dilan,39,10/8/2020,Male,Fruit,Apple,3, LKR  530.00 
+108,Cu012,716374959,K.P Kamala,65,10/16/2020,Female,Biscuits,Cream Cracker,5," LKR  1,445.00 "
+109,Cu008,783005526,M.P saman,45,10/25/2020,Male,Chocolate,Rovello,11," LKR  7,340.00 "
+110,Cu006,769303011,N.P Sunil,70,10/27/2020,Male,Noodles,Kottu Mee,4, LKR  670.00 
+111,Cu013,785459669,W.Himesha,30,11/16/2020,Female,Fruit,Orange,4, LKR  510.00 
+112,Cu009,764586987,N.A Nimal,50,11/16/2020,Male,Ice Cream,Morich,1," LKR  2,200.00 "
+113,Cu011,769693490,N. Sujith,25,11/16/2020,Male,Beverages,Ayurveda Herbal Drink,3," LKR  1,180.00 "
+114,Cu001,712741286,W.Jayasiri,63,11/18/2020,Male,Snack Femaleoods,Snack Femaleoods,5," LKR  1,280.00 "
+115,Cu002,715189278,H.A.Sakila,38,11/20/2020,Female,Yogurt,Kotmale,5, LKR  490.00 
+116,Cu014,705698562,Y.Sajith,28,11/22/2020,Male,Cake,Kandy,4," LKR  1,950.00 "
+117,Cu007,764079289,W.Lakmal,33,11/23/2020,Male,Chicken,Bairaha,4," LKR  4,378.00 "
+118,Cu004,712397401,M.P.Sandya,62,12/12/2020,Female,Yogurt,Kotmale,4, LKR  450.00 
+119,Cu010,702281572,W.Eishan,25,12/20/2020,Male,Arrack,Rockland,9," LKR  18,960.00 "
+120,Cu015,487565458,R.Lakshani,24,12/27/2020,Female,Yogurt,Ambewela,5, LKR  400.00 
+121,Cu007,764079289,W.Lakmal,33,12/28/2021,Male,Fruit,Apple,4, LKR  480.00 
+122,Cu011,769693490,N. Sujith,25,1/1/2021,Male,Biscuits,Manchee,2, LKR  582.00 
+123,Cu007,764079289,W.Lakmal,33,1/5/2021,Male,Chicken,Bairaha,4," LKR  4,378.00 "
+124,Cu008,783005526,M.P saman,45,1/7/2021,Male,Chocolate,KitKat,7," LKR  2,740.00 "
+125,Cu009,764586987,N.A Nimal,50,1/7/2021,Male,Ice Cream,Magic,1, LKR  240.00 
+126,Cu012,716374959,K.P Kamala,65,1/8/2021,Female,Yogurt,Malindu,6, LKR  750.00 
+127,Cu014,705698562,Y.Sajith,28,1/17/2021,Male,Ice Cream,Malindu,4," LKR  1,950.00 "
+128,Cu015,487565458,R.Lakshani,24,1/18/2021,Female,Chocolate,Revello,6," LKR  2,300.00 "
+129,Cu001,712741286,W.Jayasiri,63,1/18/2021,Male,Toothpaste,Signal,1, LKR  330.00 
+130,Cu002,715189278,H.A.Sakila,38,1/20/2021,Female,Yogurt,Kotmale,6, LKR  480.00 
+131,Cu010,702281572,W.Eishan,25,1/25/2021,Male,Arrack,Red Label,2," LKR  4,860.00 "
+132,Cu011,769693490,N. Sujith,25,1/26/2021,Male,Biscuits,Bourbon,3," LKR  1,182.00 "
+133,Cu007,764079289,W.Lakmal,33,1/27/2021,Male,Chicken,Bairaha,4," LKR  1,378.00 "
+134,Cu004,712397401,M.P.Sandya,62,1/27/2021,Female,Snacks,Candy,4, LKR  444.00 
+135,Cu005,774047401,W.H.A.Malani,65,1/29/2021,Female,Beverages,Ginger beer,4," LKR  1,140.00 "
+136,Cu005,774047401,W.H.A.Malani,65,2/12/2021,Female,Beverages,Woodapple Juice,4," LKR  1,140.00 "
+137,Cu009,764586987,N.A Nimal,50,2/12/2021,Male,Ice Cream,Elephant House,1, LKR  750.00 
+138,Cu010,702281572,W.Eishan,25,2/22/2021,Male,Beer,Lion Beer,8," LKR  4,960.00 "
+139,Cu001,712741286,W.Jayasiri,63,2/27/2021,Male,Beverages,Coke,5," LKR  2,780.00 "
+140,Cu002,715189278,H.A.Sakila,38,2/27/2021,Female,Yogurt,Kotmale,5, LKR  690.00 
+141,Cu006,769303011,N.P Sunil,70,2/27/2021,Male,Noodles,Kottu Mee,3, LKR  970.00 
+142,Cu007,764079289,W.Lakmal,33,2/27/2021,Male,Chicken,Bairaha,4," LKR  4,378.00 "
+143,Cu008,783005526,M.P saman,45,02/29/2021,Male,Chocolate,Revello,8," LKR  5,340.00 "
+144,Cu007,764079289,W.Lakmal,33,02/29/2021,Male,Beverages,Orange Crush,4," LKR  1,370.00 "
+145,Cu008,783005526,M.P saman,45,02/30/2021,Male,Chocolate,Revello,8," LKR  5,380.00 "
+146,Cu007,764079289,W.Lakmal,33,3/13/2021,Male,Chicken,Bairaha,4," LKR  4,275.00 "
+147,Cu008,783005526,M.P saman,45,3/15/2021,Male,Chocolate,Revello,6," LKR  2,340.00 "
+148,Cu009,764586987,N.A Nimal,50,3/15/2021,Male,Ice Cream,Elephant House,1, LKR  800.00 
+149,Cu010,702281572,W.Eishan,25,3/15/2021,Male,Beer,Lion Beer,1, LKR  490.00 
+150,Cu011,769693490,N. Sujith,25,3/22/2021,Male,Biscuits,Bourbon,2, LKR  520.00 
+151,Cu012,716374959,K.P Kamala,65,3/22/2021,Female,Yogurt,Ambewela,4, LKR  445.00 
+152,Cu013,785459669,W.Himesha,30,3/22/2021,Female,Fruit,Apple,3, LKR  250.00 
+153,Cu014,705698562,Y.Sajith,28,3/22/2021,Male,Cake,Tiyara,3," LKR  1,150.00 "
+154,Cu015,487565458,R.Lakshani,24,3/27/2021,Female,Chocolate,Daily Milk,4," LKR  1,306.00 "
+155,Cu003,702281572,H.M. Dilan,39,4/1/2021,Male,Fruit,Apple,3, LKR  552.00 
+156,Cu012,716374959,K.P Kamala,65,4/5/2021,Female,Fruit,Orange,6, LKR  445.00 
+157,Cu008,783005526,M.P saman,45,4/6/2021,Male,Chocolate,Revello,7," LKR  5,340.00 "
+158,Cu006,769303011,N.P Sunil,70,4/6/2021,Male,Deli,Side Dishes,3, LKR  470.00 
+159,Cu013,785459669,W.Himesha,30,4/7/2021,Female,Snacks,Candy,4," LKR  1,080.00 "
+160,Cu009,764586987,N.A Nimal,50,4/9/2021,Male,Chocolate,Dairy Milk,1, LKR  240.00 
+161,Cu011,769693490,N. Sujith,25,4/16/2021,Male,Ice Cream,Elephant House,3," LKR  3,180.00 "
+162,Cu012,716374959,K.P Kamala,65,4/16/2021,Female,Yogurt,Ambewela,6, LKR  445.00 
+163,Cu013,785459669,W.Himesha,30,4/16/2021,Female,Fruit,Mango,4, LKR  250.00 
+164,Cu014,705698562,Y.Sajith,28,4/16/2021,Male,Cake,Tiyara,4," LKR  2,950.00 "
+165,Cu015,487565458,R.Lakshani,24,4/20/2021,Female,Beverages,Ginger beer,5," LKR  1,306.00 "
+166,Cu003,702281572,H.M. Dilan,39,4/21/2021,Male,Fruit,Apple,3, LKR  552.00 
+167,Cu004,712397401,M.P.Sandya,62,4/28/2021,Female,Biscuits,Bourbon,4," LKR  1,444.00 "
+168,Cu001,712741286,W.Jayasiri,63,5/18/2021,Male,Toothpaste,Signal,1, LKR  275.00 
+169,Cu002,715189278,H.A.Sakila,38,5/20/2021,Female,Yogurt,Ambewela,5, LKR  350.00 
+170,Cu003,702281572,H.M. Dilan,39,5/21/2021,Male,Fruit,Apple,3, LKR  250.00 
+171,Cu004,712397401,M.P.Sandya,62,5/21/2021,Female,Biscuits,Bourbon,4," LKR  1,200.00 "
+172,Cu005,774047401,W.H.A.Malani,65,5/22/2021,Female,Beverages,Ginger beer,4," LKR  1,400.00 "
+173,Cu006,769303011,N.P Sunil,70,5/22/2021,Male,Noodles,Kottu Mee,3, LKR  570.00 
+174,Cu009,764586987,N.A Nimal,50,6/5/2021,Male,Ice Cream,Elephant House,1, LKR  850.00 
+175,Cu012,716374959,K.P Kamala,65,6/6/2021,Female,Baking Goods,Baking Goods,5," LKR  1,445.00 "
+176,Cu014,705698562,Y.Sajith,28,6/16/2021,Male,Cake,Tiyara,4," LKR  3,950.00 "
+177,Cu010,702281572,W.Eishan,25,6/16/2021,Male,Beer,Lion Beer,9," LKR  4,960.00 "
+178,Cu011,769693490,N. Sujith,25,6/20/2021,Male,Chocolate,KitKat,3," LKR  1,180.00 "
+179,Cu002,715189278,H.A.Sakila,38,6/20/2021,Female,Yogurt,Kotmale,5, LKR  690.00 
+180,Cu003,702281572,H.M. Dilan,39,6/21/2021,Male,Snack Femaleoods,Snack Femaleoods,3, LKR  552.00 
+181,Cu005,774047401,W.H.A.Malani,65,6/22/2021,Female,Beverages,Ginger beer,4, LKR  740.00 
+182,Cu006,769303011,N.P Sunil,70,6/22/2021,Male,Noodles,Kottu Mee,3, LKR  870.00 
+183,Cu001,712741286,W.Jayasiri,63,6/25/2021,Male,Toothpaste,Signal,1, LKR  530.00 
+184,Cu004,712397401,M.P.Sandya,62,6/25/2021,Female,Biscuits,Bourbon,4," LKR  1,444.00 "
+185,Cu013,785459669,W.Himesha,30,6/26/2021,Female,Fruit,Apple,4, LKR  410.00 
+186,Cu015,487565458,R.Lakshani,24,6/27/2021,Female,Chocolate,Revello,5," LKR  1,300.00 "
+187,Cu003,707781577,H.M. Dilan,39,7/5/2021,Male,Fruit,Orange,7, LKR  350.00 
+188,Cu004,717397401,M.P.Sandya,67,7/5/2021,Female,Biscuits,Milk Short Cake,3," LKR  1,444.00 "
+189,Cu005,774047401,W.H.A.Malani,65,7/9/2021,Female,Beverages,Carbonated Beverages,3, LKR  140.00 
+190,Cu006,769303011,N.P Sunil,70,7/9/2021,Male,Noodles,Maggi Daiya Devilled,7, LKR  470.00 
+191,Cu013,785459669,W.Himesha,30,7/17/2021,Female,Fruit,Apple,3, LKR  300.00 
+192,Cu014,705698567,Y.Sajith,78,7/17/2021,Male,Cake,Kandy,3," LKR  1,950.00 "
+193,Cu015,487565458,R.Lakshani,74,7/19/2021,Female,Tiyara,Revello,4," LKR  1,130.00 "
+194,Cu001,717741786,W.Jayasiri,63,7/19/2021,Male,Toothpaste,Clogate,1, LKR  778.00 
+195,Cu007,764079289,W.Lakmal,38,7/22/2021,Female,Produce,Vegetables,4, LKR  490.00 
+196,Cu010,702281572,W.Eishan,75,7/25/2021,Male,Beer,Apple Beer,1, LKR  490.00 
+197,Cu002,715189278,H.A.Sakila,38,8/2/2021,Female,Snacks,Candy,5," LKR  1,490.00 "
+198,Cu010,702281572,W.Eishan,25,8/5/2021,Male,Beer,Lion Beer,2, LKR  860.00 
+199,Cu012,716374959,K.P Kamala,65,8/6/2021,Female,Yogurt,Ambewela,5, LKR  550.00 
+200,Cu014,705698567,Y.Sajith,28,8/6/2021,Male,Snacks,Candy,5," LKR  1,950.00 "
+201,Cu015,487565458,R.Lakshani,24,8/8/2021,Female,Yogurt,Ambewela,8, LKR  850.00 
+202,Cu001,717741786,W.Jayasiri,63,8/8/2021,Male,Toothpaste,Signal,1, LKR  480.00 
+203,Cu004,717397401,M.P.Sandya,62,8/11/2021,Female,Snacks,Candy,5," LKR  1,440.00 "
+204,Cu005,774047401,W.H.A.Malani,65,8/12/2021,Female,Beverages,Ginger beer,5," LKR  1,140.00 "
+205,Cu009,764586987,N.A Nimal,50,8/25/2021,Male,Ice Cream,Elephant House,1, LKR  840.00 
+206,Cu008,783005526,M.P saman,33,8/25/2021,Male,Chicken,CIC,5," LKR  5,380.00 "
+207,Cu008,783005526,M.P saman,45,8/25/2021,Male,Canned Femaleoods,Canned Soup,6," LKR  2,340.00 "
+208,Cu003,707781577,H.M. Dilan,39,8/28/2021,Male,Fruit,Apple,4, LKR  820.00 
+209,Cu006,769303011,N.P Sunil,80,8/28/2021,Male,Beverages,Apple Juice,4, LKR  380.00 
+210,Cu014,705698567,Y.Sajith,28,9/3/2021,Male,Cake,Tiyara,4," LKR  2,950.00 "
+211,Cu005,774047401,W.H.A.Malani,65,9/7/2021,Female,Beverages,Ginger beer,4," LKR  1,400.00 "
+212,Cu003,707781577,H.M. Dilan,39,9/8/2021,Male,Fruit,Apple,3, LKR  530.00 
+213,Cu012,716374959,K.P Kamala,65,9/16/2021,Female,Biscuits,Cream Cracker,5," LKR  1,445.00 "
+214,Cu008,783005526,M.P saman,45,9/25/2021,Male,Chocolate,Rovello,11," LKR  7,340.00 "
+215,Cu006,769303011,N.P Sunil,70,9/27/2021,Male,Noodles,Kottu Mee,4, LKR  670.00 
